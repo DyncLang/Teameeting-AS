@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bg.png",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    }
+]

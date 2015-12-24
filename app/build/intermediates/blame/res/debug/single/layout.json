@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invite_people.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_invite_people.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_push_set.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_push_set.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_view.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\progress_view.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_room_adapter.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\item_room_adapter.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_internet_view.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\no_internet_view.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\copy_link_view.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\copy_link_view.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_share.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\menu_share.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_view.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\text_view.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meeting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_meeting.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_setting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_room_setting.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout_horiz.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\popup_layout_horiz.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_output_msg.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\chat_output_msg.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_input_msg.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\chat_input_msg.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\exploded-aar\\TeamMeeting021\\sweetAlertDialogLibrary\\unspecified\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide_view_page.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_guide_view_page.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\test_activity.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_chatting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\include_chatting.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_empty_layout.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\list_empty_layout.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\menu_setting.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_flash.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\activity_start_flash.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    }
+]

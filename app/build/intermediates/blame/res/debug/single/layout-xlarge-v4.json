@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\include_chatting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout-xlarge\\include_chatting.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_main.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_meeting.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\layout-xlarge\\activity_meeting.xml"
+    }
+]

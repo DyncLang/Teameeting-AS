@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\menu\\push_set.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\menu\\push_set.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\TeamMeeting021\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share.xml",
+        "source": "E:\\Wrok_Coding\\TeamMeeting021\\app\\src\\main\\res\\menu\\share.xml"
+    }
+]
